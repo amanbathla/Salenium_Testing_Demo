@@ -55,7 +55,7 @@ public class Driver_Setup{
 		Url = url;
 	}
 
-
+	
 	public String getBrowser_Type() {
 		return browser_Type;
 	}
